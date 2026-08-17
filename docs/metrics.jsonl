@@ -2,3 +2,4 @@
 {"timestamp": "2026-08-14T19:34:27+02:00", "scraped": 309, "new": 309, "relevant": 35, "stored": 309, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.2, "relevance_time": 1263.4, "total_time": 1314.3, "errors": 0}
 {"timestamp": "2026-08-14T20:08:44+02:00", "scraped": 310, "new": 1, "relevant": 0, "stored": 310, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.2, "relevance_time": 0.5, "total_time": 2.7, "errors": 0}
 {"timestamp": "2026-08-17T09:18:43+02:00", "scraped": 279, "new": 9, "relevant": 1, "stored": 281, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.0, "relevance_time": 4.8, "total_time": 8.2, "errors": 0}
+{"timestamp": "2026-08-17T11:03:21+02:00", "scraped": 288, "new": 9, "relevant": 3, "stored": 290, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.4, "relevance_time": 6.7, "total_time": 14.8, "errors": 0}
