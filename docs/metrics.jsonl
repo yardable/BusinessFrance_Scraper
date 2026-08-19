@@ -37,3 +37,4 @@
 {"timestamp": "2026-08-19T17:48:23+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 285, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.4, "relevance_time": 0.0, "total_time": 1.5, "errors": 0}
 {"timestamp": "2026-08-19T18:49:10+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 285, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.5, "relevance_time": 0.0, "total_time": 1.5, "errors": 0}
 {"timestamp": "2026-08-19T19:43:25+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 285, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.0, "relevance_time": 0.0, "total_time": 1.1, "errors": 0}
+{"timestamp": "2026-08-19T20:56:06+02:00", "scraped": 200, "new": 0, "relevant": 0, "stored": 285, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 1.0, "relevance_time": 0.0, "total_time": 1.0, "errors": 0}
