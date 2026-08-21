@@ -56,3 +56,4 @@
 {"timestamp": "2026-08-21T11:53:58+02:00", "scraped": 265, "new": 1, "relevant": 0, "stored": 279, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.6, "relevance_time": 0.7, "total_time": 3.3, "errors": 0}
 {"timestamp": "2026-08-21T12:51:10+02:00", "scraped": 266, "new": 2, "relevant": 0, "stored": 281, "unchecked": 1, "initialization_time": 0.0, "scraping_time": 3.2, "relevance_time": 31.3, "total_time": 34.5, "errors": 1}
 {"timestamp": "2026-08-21T13:45:29+02:00", "scraped": 268, "new": 2, "relevant": 0, "stored": 283, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.1, "relevance_time": 7.9, "total_time": 11.0, "errors": 0}
+{"timestamp": "2026-08-21T15:13:34+02:00", "scraped": 272, "new": 3, "relevant": 0, "stored": 286, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.4, "relevance_time": 4.7, "total_time": 8.1, "errors": 0}
