@@ -429,6 +429,16 @@
     "startBroadcastDate": "2026-09-10",
     "relevancy_check": "relevant"
   },
+  "245148": {
+    "organizationName": "YOOBIC FRANCE",
+    "missionTitle": "Junior Forward Deployed Engineer (H/F)",
+    "cityName": "New York, NY",
+    "countryName": "ETATS-UNIS",
+    "missionDescription": "The Role\nAs a Junior Forward Deployed Engineer, you sit at the intersection of product, engineering, and the customer. You will be embedded with our US customers and prospects — global retail and hospitality brands — to design, build, and ship solutions on top of the YOOBIC platform that solve their real operational problems. You'll turn ambiguous business requirements into working configurations, integrations, and prototypes, often in days rather than months.\nWhat You Will Do\n•\tConfigure and customize the YOOBIC platform (workflows, dashboards, content, mobile experiences) for enterprise customers and strategic prospects\n•\tBuild integrations between YOOBIC and customer systems (HRIS, workforce management, BI, SSO) using REST APIs, webhooks, and scripting\n•\tDevelop rapid prototypes and proof-of-concepts for pre-sales: turn a discovery call into a working demo tailored to the prospect's stores\n•\tJoin customer workshops and on-site visits to understand frontline operations first-hand, then translate what you see into technical solutions\n•\tWork daily with Sales, Solutions Consulting, Customer Success, and the Product/Engineering teams in Paris and Tel Aviv\n•\tDocument solutions and contribute reusable components, templates, and playbooks to the FDE toolkit",
+    "missionProfile": "•\tTop#5 Engineering degree in computer science, software engineering, or a related field — recent graduate or up to 2 years of experience\n•\tSolid programming fundamentals: JavaScript/TypeScript and/or Python; comfort with REST APIs, JSON, and SQL\n•\tA builder's mindset: you prefer shipping something scrappy today over something perfect next quarter\n•\tStrong communication skills — you can explain a technical trade-off to a VP of Retail Operations\n•\tFluent English (daily working language with US customers); French is a plus internally\n•\tCuriosity about retail, hospitality, and how frontline teams actually work",
+    "startBroadcastDate": "2026-09-10",
+    "relevancy_check": "relevant"
+  },
   "245721": {
     "organizationName": "EXTIA",
     "missionTitle": "Integration & Production Engineer (H/F)",
