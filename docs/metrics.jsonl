@@ -403,3 +403,4 @@
 {"timestamp": "2026-10-06T08:07:23+02:00", "scraped": 400, "new": 1, "relevant": 0, "stored": 518, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.4, "relevance_time": 0.5, "total_time": 3.1, "errors": 0}
 {"timestamp": "2026-10-06T09:07:29+02:00", "scraped": 400, "new": 3, "relevant": 2, "stored": 521, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 3.3, "relevance_time": 1.9, "total_time": 8.4, "errors": 0}
 {"timestamp": "2026-10-06T10:07:21+02:00", "scraped": 400, "new": 2, "relevant": 0, "stored": 523, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.2, "relevance_time": 1.1, "total_time": 3.4, "errors": 0}
+{"timestamp": "2026-10-06T11:07:28+02:00", "scraped": 400, "new": 4, "relevant": 2, "stored": 527, "unchecked": 0, "initialization_time": 0.1, "scraping_time": 1.9, "relevance_time": 2.9, "total_time": 7.8, "errors": 0}
