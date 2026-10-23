@@ -577,3 +577,4 @@
 {"timestamp": "2026-10-23T14:07:23+02:00", "scraped": 400, "new": 2, "relevant": 0, "stored": 546, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 2.6, "relevance_time": 1.4, "total_time": 4.1, "errors": 0}
 {"timestamp": "2026-10-23T15:09:06+02:00", "scraped": 400, "new": 4, "relevant": 1, "stored": 550, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 94.8, "relevance_time": 10.0, "total_time": 106.4, "errors": 0}
 {"timestamp": "2026-10-23T16:08:45+02:00", "scraped": 400, "new": 3, "relevant": 1, "stored": 553, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 47.9, "relevance_time": 37.3, "total_time": 86.8, "errors": 0}
+{"timestamp": "2026-10-23T17:09:21+02:00", "scraped": 400, "new": 10, "relevant": 0, "stored": 563, "unchecked": 0, "initialization_time": 0.0, "scraping_time": 31.4, "relevance_time": 90.6, "total_time": 122.1, "errors": 0}
